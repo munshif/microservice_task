@@ -16,7 +16,7 @@ lead_id:
 #Get policy by id - GET
 http://localhost:9004/api/policies/<id>  
 
-#Get policies by user - GET
+#Get policies by lead - GET
 http://localhost:9004/api/policies/bylead/<leadid>
 
 #Delete a policy - DELETE
